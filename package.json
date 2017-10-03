@@ -1,0 +1,22 @@
+{
+  "name": "babel-polyfill-dhatim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhatim/babel-polyfill-dhatim.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhatim/babel-polyfill-dhatim/issues"
+  },
+  "homepage": "https://github.com/dhatim/babel-polyfill-dhatim#readme",
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0"
+  }
+}
